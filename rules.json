@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*doubleclick.net*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*googlesyndication.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*adnxs.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*taboola.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*outbrain.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*popads.net*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*propellerads.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*clickadu.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*exoclick.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*juicyads.com*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*poki.com/ad*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "*crazygames.com/ad*",
+      "resourceTypes": [
+        "sub_frame",
+        "script",
+        "stylesheet",
+        "image",
+        "media",
+        "xmlhttprequest",
+        "ping",
+        "websocket",
+        "other"
+      ],
+      "initiatorDomains": [
+        "yell0wsuit.page",
+        "volt-nocoin.webtvmedia.net",
+        "nocoin.webtvmedia.net",
+        "ss.randomkzn.com",
+        "plznxz.github.io",
+        "topsurfer.de",
+        "ashuni.lol",
+        "tavvkkj.xyz",
+        "www.tavvkkj.xyz",
+        "poki.com",
+        "poki-gdn.com"
+      ]
+    }
+  }
+]

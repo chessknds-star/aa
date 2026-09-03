@@ -1,0 +1,2 @@
+/*! Volt v21.12.7 — CWS store build */
+!function(){function removeSkeleton(){var el=document.getElementById("volt-init-skeleton");el&&el.parentNode.removeChild(el)}"complete"===document.readyState?setTimeout(removeSkeleton,100):window.addEventListener("load",function(){setTimeout(removeSkeleton,100)})}();
